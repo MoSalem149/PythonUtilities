@@ -1,0 +1,1 @@
+That text file is for word counter using python code to count the number of each word in that file.

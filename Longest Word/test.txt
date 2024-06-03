@@ -1,0 +1,1 @@
+That text file is for longest word using python code to get the longest word between each word in that file.
