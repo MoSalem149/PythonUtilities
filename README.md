@@ -7,7 +7,7 @@ A collection of Python scripts for common utility tasks including file manipulat
 1. [color.py](Color/color.py)
 2. [longest_word.py](longest_word.py)
 3. [count_words.py](WordCounter/word_counter.py)
-4. [grade_category.py](Grade Category/grade_category.py)
+4. [grade_category.py](GradeCategory/grade_category.py)
 
 ### color.py
 
